@@ -1,9 +1,15 @@
-<div id="header" align="center">
-    <h1>igmunv@linux:~#</h1>
-    <h3></h3>
+
+
+<div id="socials" align="center">
+    <a href="Telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-gray?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2F" alt="LinkedIn"/>
+  </a>
+  <a href="Gmail-url">
+    <img src="https://img.shields.io/badge/Gmail-gray?style=flat&logo=gmail&link=https%3A%2F%2Ft.me%2F" alt="Twitter"/>
+  </a>
 </div>
 
-![Static Badge](https://img.shields.io/badge/Telegram-gray?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2F)
+### Обо мне:
 
 
 ### Языки:
