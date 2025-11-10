@@ -1,10 +1,10 @@
 
 
 <div id="socials" align="center">
-    <a href="mailto:https://t.me/igmunv">
+    <a href="https://t.me/igmunv">
     <img src="https://img.shields.io/badge/Telegram-gray?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2F" alt="Telegram"/>
   </a>
-  <a href="devskynger@gmail.com">
+  <a href="mailto:devskynger@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-gray?style=flat&logo=gmail&link=https%3A%2F%2Ft.me%2F" alt="GMail"/>
   </a>
 </div>
