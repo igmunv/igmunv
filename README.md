@@ -1,7 +1,7 @@
 
 
 <div id="socials" align="center">
-    <a href="https://t.me/igmunv">
+    <a href="mailto:https://t.me/igmunv">
     <img src="https://img.shields.io/badge/Telegram-gray?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2F" alt="Telegram"/>
   </a>
   <a href="devskynger@gmail.com">
