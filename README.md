@@ -1,11 +1,11 @@
 
 
 <div id="socials" align="center">
-    <a href="Telegram-url">
-    <img src="https://img.shields.io/badge/Telegram-gray?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2F" alt="LinkedIn"/>
+    <a href="https://t.me/igmunv">
+    <img src="https://img.shields.io/badge/Telegram-gray?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2F" alt="Telegram"/>
   </a>
-  <a href="Gmail-url">
-    <img src="https://img.shields.io/badge/Gmail-gray?style=flat&logo=gmail&link=https%3A%2F%2Ft.me%2F" alt="Twitter"/>
+  <a href="devskynger@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gray?style=flat&logo=gmail&link=https%3A%2F%2Ft.me%2F" alt="GMail"/>
   </a>
 </div>
 
