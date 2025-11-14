@@ -10,7 +10,7 @@
 </div>
 
 ### Обо мне:
-Занимаюсь системным программирование и информационной безопасностью
+Занимаюсь системным программированием и информационной безопасностью
 
 ### Языки:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
